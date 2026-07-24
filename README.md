@@ -118,7 +118,7 @@ This produces immersion rather than summary. Isaiah rewards this kind of reading
 | 01 | [The Architecture of Deep Reading](posters/01-entering-the-world-of-the-text/01-the-architecture-of-deep-reading.png) | Entering the World of the Text |
 | 02 | [Learning to Read Slowly](posters/01-entering-the-world-of-the-text/02-learning-to-read-slowly.png) | Entering the World of the Text |
 | 03 | [Five Doorways into the World of the Text](posters/01-entering-the-world-of-the-text/03-five-doorways-into-the-world-of-the-text.png) | Entering the World of the Text |
-| 04 | **WHO? — Voice, Vision, and Silence** — retained copy not present in this runtime export | Entering the World of the Text |
+| 04 | [WHO? — Voice, Vision, and Silence](posters/01-entering-the-world-of-the-text/04-who-voice-vision-and-silence.png) | Entering the World of the Text |
 | 05 | [WHAT? — Movement, Genre, and Change](posters/01-entering-the-world-of-the-text/05-what-movement-genre-and-change.png) | Entering the World of the Text |
 | 06 | [WHERE? — Setting, Atmosphere, and Sacred Geography](posters/01-entering-the-world-of-the-text/06-where-setting-atmosphere-and-sacred-geography.png) | Entering the World of the Text |
 | 07 | [WHEN? — Time, Memory, and Horizon](posters/01-entering-the-world-of-the-text/07-when-time-memory-and-horizon.png) | Entering the World of the Text |
@@ -137,7 +137,7 @@ This produces immersion rather than summary. Isaiah rewards this kind of reading
 | 20 | [Hidden Architecture](posters/02-training-the-interpretive-imagination/20-hidden-architecture.png) | Training the Interpretive Imagination |
 | 21 | [Reading the Whole Field](posters/02-training-the-interpretive-imagination/21-reading-the-whole-field.png) | Training the Interpretive Imagination |
 | 22 | [False Worlds and Collapsing Trusts](posters/03-reading-the-human-condition/22-false-worlds-and-collapsing-trusts.png) | Reading the Human Condition |
-| 23 | **Power, Empire, and Idolatry** — retained copy not present in this runtime export | Reading the Human Condition |
+| 23 | [Power, Empire, and Idolatry](posters/03-reading-the-human-condition/23-power-empire-and-idolatry.png) | Reading the Human Condition |
 | 24 | [Fear and False Security](posters/03-reading-the-human-condition/24-fear-and-false-security.png) | Reading the Human Condition |
 | 25 | [Blindness and Misperception](posters/03-reading-the-human-condition/25-blindness-and-misperception.png) | Reading the Human Condition |
 | 26 | [Lament, Grief, and Holy Sorrow](posters/03-reading-the-human-condition/26-lament-grief-and-holy-sorrow.png) | Reading the Human Condition |
@@ -216,8 +216,8 @@ The `variants/` and `archive/` directories are intentional. The creative process
 
 ## Archive integrity
 
-- **53 generated PNG files** were discovered in the active chat runtime.
-- **55 manifest records** were created, including canonical pages, variants, archive items, and two unavailable-page records.
+- **55 generated PNG files** are currently tracked in the repository.
+- The original manifest contains **55 records**; Pages 4 and 23 have now been restored and will be reconciled during the next metadata pass.
 - **1 exact duplicate group** was detected by SHA-256.
 - User-uploaded screenshots, contact sheets, and opaque UUID-named reference images were deliberately excluded.
 - No poster was repaired or rewritten during repository assembly.
