@@ -45,6 +45,8 @@ That is a very different task.
 
 Prophetic literature is not linear prose. It is **compressed revelation**, speaking simultaneously through poetry, politics, theology, memory, symbolism, covenant, emotion, history, liturgy, apocalypse, and pastoral warning. An exclusively analytical approach flattens this density. The prophets must be read multidimensionally.
 
+Our approach is **attentive reading**: sustained rather than hurried attention; resistance to reductions that make the text smaller, safer, or simpler than it is; sensitivity to literary architecture, repetition, silence, imagery, and movement; patience with ambiguity and unresolved tension; and a willingness to hold historical, symbolic, theological, political, emotional, and pastoral dimensions together. It traces patterns and echoes across the canon without forcing them. The aim is neither interpretive novelty nor mental overexertion, but faithful attention deep enough for the world of the text to challenge and reshape perception. Because prophetic texts are intentionally dense, they invite meditation, rereading, communal discernment, and spiritual self-examination.
+
 ### Twelve interpretive axes
 
 The familiar questions WHO, WHAT, WHERE, WHEN, and WHY become doorways into a much larger field of perception.
@@ -65,21 +67,6 @@ The familiar questions WHO, WHAT, WHERE, WHEN, and WHY become doorways into a mu
 | **12. READER LOCATION** | Where are we standing—Babylon, Zion, among the exiles, on the watchtower, among fugitives, with complacent elites, or inside a fearful remnant? What does the text expose or awaken in us? | Spiritual self-location and the end of safe spectatorship |
 
 Good prophetic reading destabilizes the reader. **The prophets do not permit safe spectatorship.**
-
-### The posture of deep attention
-
-These habits are not a separate theological system or a specially named spiritual method. They describe the patient, disciplined, and integrative posture this project asks readers to bring to prophetic Scripture:
-
-- sustaining attention rather than rushing toward extraction or conclusion
-- reading multidimensionally across literary, historical, theological, political, emotional, and pastoral layers
-- resisting reductions that make the text smaller, safer, or simpler than it is
-- tracing patterns and echoes across the canon
-- noticing how literary architecture, repetition, silence, imagery, and movement carry meaning
-- remaining present to ambiguity without treating uncertainty as failure
-- allowing genuine tensions to remain unresolved until the text itself provides movement or resolution
-- holding symbolic and historical readings together rather than forcing a false choice between them
-
-Prophetic texts are intentionally dense. They invite meditation, rereading, communal discernment, and spiritual self-examination. The aim is neither mental overexertion nor interpretive novelty, but faithful attention deep enough for the world of the text to challenge and reshape perception.
 
 ### Six flattenings to resist
 
@@ -188,7 +175,7 @@ The posters repeatedly resist several reductions:
 | Reads as a spectator | Accepts being located and addressed |
 | Finishes with explanation | Continues into prayer, obedience, and hope |
 
-Interpretation is not rejected. It is deepened until disciplined attention becomes transformed perception.
+Attentive reading does not reject interpretation. It deepens interpretation until disciplined attention becomes transformed perception.
 
 ## Repository organization
 
