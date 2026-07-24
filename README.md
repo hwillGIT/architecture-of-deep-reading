@@ -66,20 +66,20 @@ The familiar questions WHO, WHAT, WHERE, WHEN, and WHY become doorways into a mu
 
 Good prophetic reading destabilizes the reader. **The prophets do not permit safe spectatorship.**
 
-### “Ultrathinking” as disciplined attention
+### The posture of deep attention
 
-In this project, *ultrathinking* does not mean speculative excess. It means:
+These habits are not a separate theological system or a specially named spiritual method. They describe the patient, disciplined, and integrative posture this project asks readers to bring to prophetic Scripture:
 
-- sustained attention
-- multidimensional reading
-- resisting reduction
-- tracing patterns canonically
-- noticing literary architecture
-- inhabiting ambiguity
-- allowing tension to remain unresolved
-- reading symbolically and historically together
+- sustaining attention rather than rushing toward extraction or conclusion
+- reading multidimensionally across literary, historical, theological, political, emotional, and pastoral layers
+- resisting reductions that make the text smaller, safer, or simpler than it is
+- tracing patterns and echoes across the canon
+- noticing how literary architecture, repetition, silence, imagery, and movement carry meaning
+- remaining present to ambiguity without treating uncertainty as failure
+- allowing genuine tensions to remain unresolved until the text itself provides movement or resolution
+- holding symbolic and historical readings together rather than forcing a false choice between them
 
-Prophetic texts are intentionally dense. They are designed for meditation, rereading, communal reflection, and spiritual disruption.
+Prophetic texts are intentionally dense. They invite meditation, rereading, communal discernment, and spiritual self-examination. The aim is neither mental overexertion nor interpretive novelty, but faithful attention deep enough for the world of the text to challenge and reshape perception.
 
 ### Six flattenings to resist
 
